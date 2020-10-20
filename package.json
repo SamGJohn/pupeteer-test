@@ -1,0 +1,19 @@
+{
+  "name": "pupeteer-test",
+  "version": "1.0.0",
+  "description": "## Using pupeteer to log in to github",
+  "main": "index1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SamGJohn/pupeteer-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SamGJohn/pupeteer-test/issues"
+  },
+  "homepage": "https://github.com/SamGJohn/pupeteer-test#readme"
+}
